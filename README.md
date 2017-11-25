@@ -1,6 +1,6 @@
 # ExcelProcVC
 VisualC++でExcelを扱うテスト(改良歓迎)
-<dl><
+<dl>
 <dt>OleWrp.h / OleWrp.cpp </dt>
 <dd> COMオブジェクトを取り扱うためのクラスを定義
 <ul>
